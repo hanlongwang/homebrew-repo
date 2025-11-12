@@ -3,7 +3,7 @@ class Tg < Formula
 
   desc "Terminal telegram client"
   homepage "https://github.com/paul-nameless/tg"
-  url "https://github.com/paul-nameless/tg/archive/refs/tags/v0.19.0.tar.gz"
+  url "https://github.com/hanlongwang/tg/archive/refs/tags/v0.1.tar.gz"
   sha256 "216aec85b6224415a88e7b124a5fed3b310e4286171cb23a8d91f4c64a69d7dc"
   license "Unlicense"
 

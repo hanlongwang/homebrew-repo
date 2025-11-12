@@ -4,7 +4,7 @@ class Tg < Formula
   desc "Terminal telegram client"
   homepage "https://github.com/paul-nameless/tg"
   url "https://github.com/hanlongwang/tg/archive/refs/tags/v0.1.tar.gz"
-  sha256 "216aec85b6224415a88e7b124a5fed3b310e4286171cb23a8d91f4c64a69d7dc"
+  sha256 "7737d128296feb16f1a5193aff9c3e4bac7152f75a7d43108fbafd5e95f9a78a"
   license "Unlicense"
 
   depends_on "python"
